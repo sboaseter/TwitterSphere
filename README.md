@@ -2,4 +2,4 @@
 tweepy, textblob, colorama
 
 
-[TitterSphere](/TwitterSphere/twittersphere.PNG?raw=true "trump")
+[TwitterSphere](https://raw.githubusercontent.com/sboaseter/TwitterSphere/master/twittersphere.PNG?raw=true "trump")
