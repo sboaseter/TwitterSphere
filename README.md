@@ -1,1 +1,3 @@
 # TwitterSphere
+tweepy, textblob, colorama
+
